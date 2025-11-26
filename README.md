@@ -11,7 +11,7 @@ Aqui postarei periodicamente os circuitos que desenvolvo utilizando o simulador 
 
 ## 🛠️ Ferramentas Utilizadas
 
-* **Logisim** (Versão: 2.7.1)
+* **Logisim** (Versão: 2.7)
 
 ## 📂 Lista de Circuitos
 
