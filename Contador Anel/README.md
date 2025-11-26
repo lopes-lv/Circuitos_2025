@@ -1,7 +1,6 @@
 # 🔄 Estudo e Implementação: Contador Anel (Ring Counter)
 
 ![Logisim Badge](https://img.shields.io/badge/Tools-Logisim-blue?style=for-the-badge&logo=appveyor)
-![Tinkercad Badge](https://img.shields.io/badge/Simulação-Tinkercad-orange?style=for-the-badge)
 ![Status Badge](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
 
 ## 📖 Descrição do Projeto
