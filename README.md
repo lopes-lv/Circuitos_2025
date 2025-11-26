@@ -5,7 +5,7 @@
 
 ## 📖 Sobre o Repositório
 
-Bem-vindo ao meu laboratório digital! Este repositório tem como objetivo documentar minha jornada de aprendizado em **Lógica Digital** e **Arquitetura de Computadores**.
+Bem-vindo ao meu laboratório digital! Este repositório tem como objetivo documentar minha jornada de aprendizado em **Circuitos 2** e **Arquitetura de Computadores**.
 
 Aqui postarei periodicamente os circuitos que desenvolvo utilizando o simulador **Logisim** (ou Logisim Evolution). O repositório será atualizado constantemente, desde portas lógicas básicas até processadores mais complexos.
 
