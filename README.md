@@ -22,6 +22,7 @@ Abaixo estão listados os projetos organizados por ordem de criação/complexida
 | 01 | **Flip flop RS** | Portas Lógicas, Memoria | ✅ Concluído |
 | 02 | **Contador Anel** | Contadores, Clock | ✅ Concluído |
 | 03 | **Contador de década** | Contadores, Clock | ✅ Concluído |
+| 04 | **Registrador de deslocamento** | Flip flop | ✅ Concluído |
 
 > **Legenda:** ✅ Funcionando perfeitamente | 🚧 Em desenvolvimento/Com bugs | ⏳ Ideia futura
 
